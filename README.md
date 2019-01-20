@@ -1,2 +1,0 @@
-# homeworksss
-my first repo
